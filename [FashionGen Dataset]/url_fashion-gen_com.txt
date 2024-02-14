@@ -1,0 +1,15 @@
+https://fashion-gen.com/
+
+@article{2018arXiv180608317R,
+         author = {{Rostamzadeh}, N. and {Hosseini}, S. and {Boquet}, T. and {Stokowiec}, W. and
+         {Zhang}, Y. and {Jauvin}, C. and {Pal}, C.},
+         title = "{Fashion-Gen: The Generative Fashion Dataset and Challenge}",
+         journal = {ArXiv e-prints},
+         archivePrefix = "arXiv",
+         eprint = {1806.08317},
+         primaryClass = "stat.ML",
+         keywords = {Statistics - Machine Learning, Computer Science - Learning},
+         year = 2018,
+         month = jun,
+         adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180608317R},
+        }
